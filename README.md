@@ -1,0 +1,2 @@
+# docker_project_with_git
+docker_project_with_git
